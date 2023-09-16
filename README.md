@@ -1,4 +1,4 @@
-# AWSKRUG #Women-In-Tech 소모임
+# AWSKRUG #Women-In-Cloud 소모임
 
 - since 2023
 - 밋업 공지 추가 예정입니다.
