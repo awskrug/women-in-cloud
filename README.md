@@ -23,7 +23,7 @@
   - **주제**
     - Main Session
       - MCP 이해와 활용: 개발 생산성을 높이는 새로운 방법 - [`손수연`]()
-      - ALB를 활용한 하이브리드 클라우드 자동 장애 전환 구조 설계 경험 - [`장수정`]()
+      - [ALB를 활용한 하이브리드 클라우드 자동 장애 전환 구조 설계 경험](./files/250529_ALB를활용한하이브리드클라우드자동장애전환구조설계경험_장수정.pdf) - [`장수정`](https://www.linkedin.com/in/sjjang97/)
       - [MSA를 도입하면서 느꼈던 경험](./files/250529_MSA_남혜민.pdf) - [`남혜민`](https://www.linkedin.com/in/heyden-nam/)
     - Networking
 </details>
