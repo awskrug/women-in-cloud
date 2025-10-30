@@ -23,9 +23,9 @@ weight: 1
 
 여정을 시작할 준비가 되셨나요? 개발 환경을 설정해보겠습니다!
 
-## 성역 설정 (설치)
+## 환경 설정 (설치)
 
-**1단계: 마법적 환경 생성**
+**1단계: 워크샵 저장소 클론**
 
 ```bash
 # 워크숍 저장소 클론
@@ -33,7 +33,7 @@ git clone https://github.com/aws-samples/sample-once-upon-agentic-ai.git
 cd sample-once-upon-agentic-ai
 ```
 
-**2단계: 필요한 마법 설치**
+**2단계: 필요한 패키지 설치**
 
 [uv를 가지고 있지 않다면 설치하세요](https://docs.astral.sh/uv/getting-started/installation/#standalone-installer)
 

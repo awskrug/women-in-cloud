@@ -7,7 +7,7 @@ weight: 40
 
 _"먼 영역으로의 포털 열기..."_
 
-차원 연결의 비전 기술에 오신 것을 환영합니다, 용감한 여행자여! 이 챕터에서는 [모델 컨텍스트 프로토콜(MCP)](https://strandsagents.com/latest/documentation/docs/user-guide/concepts/tools/mcp-tools/)의 신비로운 기술을 배우게 됩니다 - 에이전트가 외부 서비스에 연결하고 먼 영역의 힘을 호출할 수 있게 하는 마법입니다.
+차원 연결의 비전 기술에 오신 것을 환영합니다, 코딩 용사여! 이 챕터에서는 [모델 컨텍스트 프로토콜(MCP)](https://strandsagents.com/latest/documentation/docs/user-guide/concepts/tools/mcp-tools/)의 신비로운 기술을 배우게 됩니다 - 에이전트가 외부 서비스에 연결하고 먼 영역의 힘을 호출할 수 있게 하는 마법입니다.
 
 ## 🎯 퀘스트 목표
 
