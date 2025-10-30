@@ -32,12 +32,12 @@ MCP 서버를 생성하려면 `FastMCP` 클래스를 가져와야 합니다. `ra
 ### 2단계: MCP 서버 생성 🏰
 **TODO**: 포트 8080에서 "D&D Dice Roll Service"라는 이름으로 MCP 서버 생성
 
-지정된 `name`과 포트 8080으로 `FastMCP` 인스턴스를 생성하세요. [문서](https://strandsagents.com/latest/documentation/docs/examples/python/mcp_calculator/#first-create-a-simple-mcp-server)를 확인하세요.
+지정된 `name`과 `port` 8080으로 `FastMCP` 인스턴스를 생성하세요. [문서](https://strandsagents.com/latest/documentation/docs/examples/python/mcp_calculator/#first-create-a-simple-mcp-server)를 확인하세요.
 
 ### 3단계: 서버 실행 🚀
 **TODO**: MCP 서버 실행
 
-main에서 `streamable-http`로 정의된 전송으로 MCP 서버를 시작하는 줄을 추가하세요. 이 [예제](https://strandsagents.com/latest/documentation/docs/examples/python/mcp_calculator/#first-create-a-simple-mcp-server)처럼
+main에서 이 [예제](https://strandsagents.com/latest/documentation/docs/examples/python/mcp_calculator/#first-create-a-simple-mcp-server)처럼 `streamable-http`로 정의된 전송으로 MCP 서버를 시작하는 줄을 추가하세요.
 `@mcp.tool()` 데코레이터는 이미 구현되어 있습니다!
 
 
@@ -56,7 +56,7 @@ main에서 `streamable-http`로 정의된 전송으로 MCP 서버를 시작하�
 ### 3단계: 컨텍스트 매니저 사용 🔒
 **TODO**: `MCPClient`를 컨텍스트 매니저(with 문)에서 사용
 
-적절한 연결 관리를 위해 `MCPClient`를 사용하는 `with` 문으로 에이전트 코드를 감싸세요.
+적절한 연결 관리를 보장하기 위해 `MCPClient`를 사용하는 `with` 문으로 에이전트 코드를 감싸세요.
 
 ### 4단계: 사용 가능한 도구 가져오기
 **TODO**: `list_tools_sync()`를 사용하여 MCP 서버에서 사용 가능한 도구 가져오기
@@ -83,7 +83,7 @@ python gamemaster_mcp_client.py
 ### 3단계: 주사위 굴리기 테스트
 다음 명령을 시도해보세요:
 - "Roll a d20"
-- "Roll a d6" 
+- "Roll a d6"
 - "Roll a d100"
 - "Roll 4d6 for ability scores"
 

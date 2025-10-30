@@ -5,9 +5,9 @@ weight: 30
 
 ![Header Image](/static/images/header_3.png)
 
-_"모든 위대한 모험가는 자신만의 무기를 단조합니다..."_
+_"모든 위대한 모험가는 자신만의 무기를 만들어낸다..."_
 
-신비로운 대장간에 오신 것을 환영합니다, 용감한 장인여! 이 챕터에서는 자신만의 마법 도구를 만드는 고대 기술을 배우게 됩니다. 이전에 본 내장 도구들이 강력하지만, 진정한 마스터들은 특정 퀘스트를 위해 자신만의 마법을 단조합니다. 이것이 바로 **맞춤형 도구**입니다.
+신비로운 대장간에 오신 것을 환영합니다, 코딩 용사여! 이 챕터에서는 자신만의 마법 도구를 만드는 고대 기술을 배우게 됩니다. 이전에 본 내장 도구들이 강력하지만, 진정한 마스터들은 특정 퀘스트를 위해 자신만의 마법을 단조합니다. 이것이 바로 **맞춤형 도구**입니다.
 
 ## 🎯 퀘스트 목표
 
@@ -30,7 +30,7 @@ Strands에서 맞춤형 도구는 특별한 마법으로 축복받은 Python 함
 ### 2단계: 변환 룬 시전 🪄
 **TODO**: 함수를 도구로 변환하기 위해 데코레이터 추가
 
-`@tool` 데코레이터는 일반 Python 함수를 에이전트가 자동으로 발견하고 사용할 수 있는 도구로 변환하는 주문입니다. [문서](https://strandsagents.com/latest/documentation/docs/user-guide/concepts/tools/tools_overview/#building-loading-tools)에 링크하세요.
+`@tool` 데코레이터는 일반 Python 함수를 에이전트가 자동으로 발견하고 사용할 수 있는 도구로 변환하는 주문입니다. [문서](https://strandsagents.com/latest/documentation/docs/user-guide/concepts/tools/tools_overview/#building-loading-tools) 링크.
 
 
 ### 3단계: 문서화 마법서 작성 📚

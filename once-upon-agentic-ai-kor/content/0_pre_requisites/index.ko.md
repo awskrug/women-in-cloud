@@ -19,7 +19,7 @@ weight: 1
 
 ### 학습할 내용
 
-이 워크샵에서는 간단한 챗봇부터 복잡한 멀티 에이전트 시스템까지 모든 것을 구축하기 위해 Strands의 힘을 활용하는 방법을 발견하게 됩니다. 기초부터 시작하여 점진적으로 고급 패턴과 통합으로 나아갈 것입니다.
+이 워크숍에서는 간단한 챗봇부터 복잡한 멀티 에이전트 시스템까지 모든 것을 구축하기 위해 Strands의 힘을 활용하는 방법을 발견하게 됩니다. 기초부터 시작하여 점진적으로 고급 패턴과 통합으로 나아갈 것입니다.
 
 여정을 시작할 준비가 되셨나요? 개발 환경을 설정해보겠습니다!
 
@@ -28,21 +28,21 @@ weight: 1
 **1단계: 마법적 환경 생성**
 
 ```bash
-# 워크샵 저장소 클론
+# 워크숍 저장소 클론
 git clone https://github.com/aws-samples/sample-once-upon-agentic-ai.git
 cd sample-once-upon-agentic-ai
 ```
 
 **2단계: 필요한 마법 설치**
 
-[uv가 없다면 설치하세요](https://docs.astral.sh/uv/getting-started/installation/#standalone-installer)
+[uv를 가지고 있지 않다면 설치하세요](https://docs.astral.sh/uv/getting-started/installation/#standalone-installer)
 
 ```bash
-# 모든 워크샵 종속성을 설치하고 환경 동기화
+# 모든 워크숍 종속성을 설치하고 환경 동기화
 uv sync
 ```
 
-venv가 자동으로 활성화되어야 하지만 그렇지 않은 경우 다음 명령을 실행하세요:
+venv는 자동으로 활성화되어야 하지만 그렇지 않은 경우 다음 명령을 실행하세요:
 
 ```bash
 source .venv/bin/activate  # macOS/Linux에서
@@ -61,7 +61,8 @@ MODEL_ID=us.anthropic.claude-sonnet-4-20250514-v1:0
 선택한 제공업체에 대한 적절한 자격 증명이 구성되어 있는지 확인하세요. 설정 지침은 [Strands 문서](https://strandsagents.com/latest/documentation/docs/user-guide/concepts/model-providers/amazon-bedrock/)를 확인하세요.
 
 ## AWS
-AWS 이벤트에서 이 워크샵을 실행하는 경우, AWS 계정이 제공됩니다.
+
+AWS 이벤트에서 이 워크숍을 실행하는 경우, AWS 계정이 제공됩니다.
 
 시작하려면 AWS 콘솔로 이동하세요. Amazon Bedrock 콘솔로 이동하고 왼쪽 메뉴에서 **Model access**를 클릭하세요:
 
@@ -70,6 +71,7 @@ AWS 이벤트에서 이 워크샵을 실행하는 경우, AWS 계정이 제공�
 Model access 화면에서 오른쪽 상단의 **"Enable specific models"** 버튼을 클릭하세요:
 
 ![Header Image](/static/images/enableSpecificModel.png)
+
 
 모델 액세스 화면에서 **다음 모델만** 선택하고 **"Next"** 버튼을 클릭하세요:
 
