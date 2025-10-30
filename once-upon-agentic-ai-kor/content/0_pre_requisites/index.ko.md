@@ -64,25 +64,4 @@ MODEL_ID=us.anthropic.claude-sonnet-4-20250514-v1:0
 
 AWS 이벤트에서 이 워크숍을 실행하는 경우, AWS 계정이 제공됩니다.
 
-시작하려면 AWS 콘솔로 이동하세요. Amazon Bedrock 콘솔로 이동하고 왼쪽 메뉴에서 **Model access**를 클릭하세요:
-
-![Header Image](/static/images/modelAccess.png)
-
-Model access 화면에서 오른쪽 상단의 **"Enable specific models"** 버튼을 클릭하세요:
-
-![Header Image](/static/images/enableSpecificModel.png)
-
-
-모델 액세스 화면에서 **다음 모델만** 선택하고 **"Next"** 버튼을 클릭하세요:
-
-**Anthropic**
-* Claude 3.5 Haiku
-* Claude 3.5 Sonnet
-* Claude 3.7 Sonnet
-* Claude 4.0 Sonnet
-* Nova 1.0
-* _...그리고 시도해보고 싶은 다른 모델들_
-
-"Review and submit" 화면이 나타나면 선택한 모델을 검토하고, 약관을 검토한 후 Submit을 클릭하세요:
-
-![Header Image](/static/images/modelSubmit.png)
+**참고:** Amazon Bedrock의 serverless foundation model에 대한 액세스는 이제 AWS 계정에 자동으로 활성화됩니다. 더 이상 수동으로 모델 액세스를 요청하거나 활성화할 필요가 없습니다.
