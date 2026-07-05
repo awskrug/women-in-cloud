@@ -11,8 +11,108 @@
 
 
 # Meetups
+## 2026년
+
+<details>
+  <summary>20260625 21st - <b>관심을 행동으로! 주니어 여성엔지니어의 AWS SHE Builders&ABW 후기 </b></summary>
+
+  - **주최**
+    - [AWSKRUG Women In Cloud - 스물한 번째 모임](https://www.meetup.com/awskrug/events/315352674/)
+    - 일시 : 2026년 06월 25일 목요일
+    - 장소 : 온라인 (줌)
+  - **주제**
+    - Main Session
+      - 관심을 행동으로! 주니어 여성엔지니어의 AWS SHE Builders&ABW 후기 - [`이승연`](https://www.linkedin.com/in/%EC%8A%B9%EC%97%B0-%EC%9D%B4-042588263/) | AWS Solutions Architect@MegazoneCloud
+    - Networking
+</details>
+<details>
+  <summary>20260620 20th - <b>코드보다 먼저 바꿔야 할 것 — AI 시대 말하기의 과학 </b></summary>
+
+  - **주최**
+    - [AWSKRUG Women In Cloud - 스무 번째 모임](https://www.meetup.com/awskrug/events/315082322/)
+    - 일시 : 2026년 06월 20일 토요일
+    - 장소 : 온라인 (줌)
+  - **주제**
+    - Main Session
+      - 코드보다 먼저 바꿔야 할 것 — AI 시대 말하기의 과학 - [`쟈스민`](https://www.linkedin.com/in/jasminehankr/)
+    - Networking
+</details>
+<details>
+  <summary>20260327 19th - <b>엔지니어 직군을 중심으로 한 "직장인의 브랜딩" </b></summary>
+
+  - **주최**
+    - [AWSKRUG Women In Cloud - 열아홉 번째 모임](https://www.meetup.com/awskrug/events/313705359/)
+    - 일시 : 2026년 03월 27일 금요일
+    - 장소 : 센터필드 (서울 강남구 테헤란로 231)
+  - **주제**
+    - Main Session
+      - 엔지니어 직군을 중심으로 한 "직장인의 브랜딩" - [`우미영`](https://www.linkedin.com/in/mary-miyoung-woo-49781b3/) | AWS
+    - Networking
+</details>
+<details>
+  <summary>20260118 18th - <b>그래도 가고 싶다면 &lt;해외취업 전략 - 캐나다&gt; </b></summary>
+
+  - **주최**
+    - [AWSKRUG Women In Cloud - 열여덟 번째 모임](https://www.meetup.com/awskrug/events/312726488/)
+    - 일시 : 2026년 01월 18일 일요일
+    - 장소 : 온라인
+  - **주제**
+    - Main Session
+      - 그래도 가고 싶다면 &lt;해외취업 전략 - 캐나다&gt; - [`한가윤`](https://www.linkedin.com/in/gayuna/) | Software Engineer
+    - Networking
+</details>
+<details>
+  <summary>20260112 17th - <b>한국에서 글로벌 테크 기업으로, 1년 후 다시 써보는 해외취업 전략 </b></summary>
+
+  - **주최**
+    - [AWSKRUG Women In Cloud - 17th](https://www.meetup.com/awskrug/events/312651730/)
+    - 일시 : 2026년 01월 12일 월요일
+    - 장소 : 온라인
+  - **주제**
+    - Main Session
+      - 한국에서 글로벌 테크 기업으로, 1년 후 다시 써보는 해외취업 전략 - [`이고은`](https://www.linkedin.com/in/goleedev/) | Frontend Engineer at Cloudflare
+    - Networking
+</details>
+
 ## 2025년
 
+<details>
+  <summary>20251028 16th - <b>IT업계에서 '발견되는 사람'이 되는 법 - 기회를 만들어내는 링크드인 커리어 전략 </b></summary>
+
+  - **주최**
+    - [AWSKRUG Women In Cloud - 16th](https://www.meetup.com/awskrug/events/311638913/)
+    - 일시 : 2025년 10월 28일 화요일
+    - 장소 : 센터필드 (서울 강남구 테헤란로 231)
+  - **주제**
+    - Main Session
+      - IT업계에서 '발견되는 사람'이 되는 법 - 기회를 만들어내는 링크드인 커리어 전략 - [`문지수`](https://www.linkedin.com/in/jisoo-me/?locale=ko_KR) | 헤드헌터 & 리크루터
+    - Networking
+</details>
+<details>
+  <summary>20250904 15th - <b>From AWS to TikTok: Building Reliability Across Different Cultures and Scales </b></summary>
+
+  - **주최**
+    - [AWSKRUG Women In Cloud - 열다섯 번째 모임](https://www.meetup.com/awskrug/events/310712277/)
+    - 일시 : 2025년 09월 04일 목요일
+    - 장소 : 온라인 (구글밋)
+  - **주제**
+    - Main Session
+      - From AWS to TikTok: Building Reliability Across Different Cultures and Scales - [`김해미`](https://www.linkedin.com/in/haemi-kim-7baa69103/) | TikTok, ex-AWS
+    - Networking
+</details>
+<details>
+  <summary>20250731 14th - <b>라이트닝 토크 </b></summary>
+
+  - **주최**
+    - [AWSKRUG Women In Cloud - 열네 번째 모임](https://www.meetup.com/awskrug/events/309009500/)
+    - 일시 : 2025년 07월 31일 목요일
+    - 장소 : 센터필드 (서울 강남구 테헤란로 231)
+  - **주제**
+    - Main Session
+      - 내 성과 잘 정리하고 어필하는 방법, 참 쉽죠? - [`안다혜`]()
+      - 주니어 개발자가 책 집필을 할 수 있었던 이유 - [`신선영`]() | 리멤버앤컴퍼니
+    - Networking
+</details>
 <details>
   <summary>20250529 13th - <b>라이트닝 토크 </b></summary>
 
